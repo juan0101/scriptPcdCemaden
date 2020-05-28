@@ -1,0 +1,22 @@
+{
+  "url": "http://sjc.salvar.cemaden.gov.br/resources/dados/SP_1.json",
+  "dataDir": "/home/<Usuario>/Documentos/cemaden-scripts/shared-data",
+  "exclude": ["latitude", "longitude", "cidade", "nome", "tipo", "uf", "dataHora", "codestacao"],
+  "stations": [
+    {
+      "codEstacao": ""
+    },
+    {
+      "codEstacao": ""
+    },
+    {
+      "codEstacao": ""
+    },
+    {
+      "codEstacao": ""
+    },
+    {
+      "codEstacao": ""
+    }
+  ]
+}
